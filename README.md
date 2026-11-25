@@ -16,8 +16,8 @@ Plotting L with progression of days shows how the pole’s shadow length changes
 2. **Solar Path At Given Latitude On The Celestial Sphere**
 
 The apparent path of the Sun across the sky at a given latitude ϕ and solar declination δ can be described using the hour angle H. The hour angle at sunrise or sunset H0 is given by **H0 = arccos(−tan ϕ tan δ)**. The solar elevation angle α and azimuth A at any hour angle H are:
-                                                **α = arcsin(sin ϕ sin δ + cos ϕ cos δ cosH)
-                                                  A = arctan 2(−sinH, tan δ cos ϕ − sin ϕ cosH)**
+                                                **α = arcsin(sin ϕ sin δ + cos ϕ cos δ cosH)** and 
+                                                  **A = arctan 2(−sinH, tan δ cos ϕ − sin ϕ cosH)**. 
 The azimuth A is measured from the north point eastward (0◦ to 360◦). Plotting α against A for different declinations (equinox and solstice) visualizes the Sun’s path as seen from the observer’s location.
 
 • We observe that for summer solstice **(δ=23.44◦)**, the sun is at the highest point in the sky (maximum altitude) for the longest duration, due to which the curve is static once the maximum altitude is achieved, after which the altitude again decreases as the sun is about to set.
