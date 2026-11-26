@@ -7,6 +7,11 @@ The length of the shadow L of a pole of height H at local solar noon depends on 
 At solar noon, the solar altitude angle is **α = 90◦ − (ϕ − δ)**, so the shadow length is given by **L = H × tan(ϕ − δ)**.
 Plotting L with progression of days shows how the pole’s shadow length changes seasonally for different latitudes, including for home location ϕ.
 
+<img width="1536" height="754" alt="Shadow length" src="https://github.com/user-attachments/assets/5efba0b6-b1c1-4de0-b2ca-6e3aa8091b2a" />
+
+<img width="1000" height="600" alt="Latitudes more than 66 5" src="https://github.com/user-attachments/assets/03e8a0e7-b607-4f77-a609-d9722a1dea5a" />
+
+
 • The curve with latitude 30◦ is close to the equator and thus shadow lengths are shorter and vary less over the year. The curve with latitude 60◦ is close to the poles and hence sun’s altitude changes drastically with seasons and shadows are longer.
 
 • All the curves have two minima, at the summer solstice (highest elevation angle of the sun) due to which shadow length is shortest. The maxima for the curves is at the winter solstice where the elevation angle of the sun is the lowest, thus resulting in longest shadow length.
