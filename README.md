@@ -25,6 +25,10 @@ The apparent path of the Sun across the sky at a given latitude ϕ and solar dec
                                                   **A = arctan 2(−sinH, tan δ cos ϕ − sin ϕ cosH)**. 
 The azimuth A is measured from the north point eastward (0◦ to 360◦). Plotting α against A for different declinations (equinox and solstice) visualizes the Sun’s path as seen from the observer’s location.
 
+
+<img width="1000" height="600" alt="Solar path" src="https://github.com/user-attachments/assets/9a459e30-698b-4d49-a6e1-417658c4a831" />
+
+
 • We observe that for summer solstice **(δ=23.44◦)**, the sun is at the highest point in the sky (maximum altitude) for the longest duration, due to which the curve is static once the maximum altitude is achieved, after which the altitude again decreases as the sun is about to set.
 
 • For the vernal equinox **(δ=0◦)**, the curve is symmetric, showing that the length of day and night are the same.
@@ -41,6 +45,11 @@ The solar spectrum shows absorption lines caused by elements in the solar atmosp
 • Fe (Iron) at 3581.21 ˚A
 • Ca (Calcium) at 4307.74 ˚A
 • Ni (Nickel) at 2994.44 ˚A
+
+
+<img width="639" height="403" alt="Solar spectra vs blackbody radiation" src="https://github.com/user-attachments/assets/d3126abe-013f-45ff-bd72-7486f172e1f7" />
+
+<img width="639" height="397" alt="Spectral lines" src="https://github.com/user-attachments/assets/eccf0dd9-5bfd-4905-a490-9d66133e91d8" />
 
 
 • The blackbody spectra is plotted corresponding to the solar spectral data provided. Using Wien’s displacement law, the wavelength corresponding to the maximum solar flux is found to be 4510 ˚A.
